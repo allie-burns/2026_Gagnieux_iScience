@@ -1,4 +1,4 @@
-[![DOI](To be added)](To be added)
+[![DOI](https://zenodo.org/badge/1284110773.svg)](https://doi.org/10.5281/zenodo.21070444)
 
 # 2026_Gagnieux_iScience
 This is the code used to perform the bulk RNA-sequencing analyses in the manuscript, "Kidney-specific deletion of the BicC family RNA binding protein 1 triggers an ADPKD-like cystogenic program" (Gagnieux et al., 2026, iScience).
