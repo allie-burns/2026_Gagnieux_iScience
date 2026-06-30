@@ -9,4 +9,4 @@ Autosomal dominant polycystic kidney disease (ADPKD) arises from mutations in po
 
 
 ## Data Availability
-Raw and processed data files can be downloaded from [GSE......](To be updated).
+Raw and processed data files can be downloaded from [GSE337067](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE337067).
